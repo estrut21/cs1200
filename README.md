@@ -1,2 +1,2 @@
 # cs1200
-n/a
+Open Source reading for cs 1200
